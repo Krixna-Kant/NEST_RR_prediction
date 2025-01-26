@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn==1.2.0
+xgboost==1.7.5
+shap
+streamlit
+matplotlib
+seaborn
+joblib
+plotly
+openpyxl
+fastapi
+uvicorn
+pyngrok
